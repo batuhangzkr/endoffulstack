@@ -1,0 +1,21 @@
+.buton{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: azure;
+    
+
+   
+
+}
+
+.navbar{
+    position: relative;
+    height: 50px;
+    background-color: rgb(43, 39, 36);
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    width: 100%;
+}
